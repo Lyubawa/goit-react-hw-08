@@ -3,7 +3,7 @@
 
 export const selectLoading = state => state.contacts.loading;
 export const selectContacts = state => state.contacts.items;
-export const selectFilterContacts = state => state.contacts.filter;
+// export const selectFilterContacts = state => state.contacts.filter;
 // export const selectError = state => state.contacts.error;
 // MEMO
 // export const selectFilterContacts = createSelector(
